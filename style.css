@@ -149,7 +149,7 @@ grid-column: span 1;
     object-fit: cover;
 }
 .first {
-    grid-row: span 2;
+    grid-row: span 1;
 }
 .second {
     grid-row: span 2;
